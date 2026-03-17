@@ -1,0 +1,21 @@
+{
+  "name": "aiphoto",
+  "version": "1.0.0",
+  "description": "AI Photo Generator by Basel",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basilsyam/AiPhoto.git"
+  },
+  "author": "Basel Syam",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
