@@ -1,5 +1,5 @@
 .code{
-color:"red"
+color:"red";background-color: silver;
 }
 .basel{
     background-color: red;
@@ -9,4 +9,7 @@ color:"red"
 }
 .khalid{
     background-color: beige;
+}
+.saeed{
+    vertical-align: baseline;
 }
